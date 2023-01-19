@@ -15,5 +15,8 @@ R: Os principais campos são as chaves primárias(id's) que são predominantemen
 
 <h4>Como essas entidades estão relacionadas?</h4>
 
+
+
 R: As entidades estão relacionadas através de Chaves Primárias (PK) e e estrangeiras(FK). Nesse modelo proposto, as tabelas relacionam-se pelo campo ID.
+<h3>Imagem do Modelo:</h3>
 <img src="trabalho individual m4.png">

@@ -8,12 +8,7 @@ Quais são os principais campos e tipos?
 
 R: Os principais campos são as chaves primárias que são predominantemente do tipo int
 
-As pricipais chaves são:
-- id_aluno/ Tabela alunos;
-- id_turma/ Tabela turmas;
-- id_professor/ Tabela professores
-- id_tema/ Tabela tema;
 
 Como essas entidades estão relacionadas?
 
-R: As entidades estão relacionadas por outras tabelas.
+R: As entidades estão relacionadas através de Chaves Primárias (PK) e e estrangeiras(FK). Nesse modelo proposto, as tabelas relacionam-se pelo campo ID.
